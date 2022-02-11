@@ -1,7 +1,7 @@
 <h1 align="center">Aplicativo de Clima</h1>
 <br>
 <h1>Projeto de consulta de clima</h1>
-<p>Desenvolvido em ReactJS com integração da API do OpenWeather.</p>
+<p>Desenvolvido em ReactJS com integração da API OpenWeather.</p>
 
 <h2>Tecnologias utilizadas</h2>
 <ul>
