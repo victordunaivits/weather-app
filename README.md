@@ -1,10 +1,16 @@
-## Weather App
+<h1 align="center">Aplicativo de Clima</h1>
+<br>
+<h1>Projeto de consulta de clima</h1>
+<p>Desenvolvimento em ReactJS com integração da API do OpenWeather.</p>
+
 <h2>Tecnologias utilizadas</h2>
 <ul>
     <li>HTML ✅</li>
     <li>CSS ✅</li>
     <li>ReactJS ✅</li>
 </ul>
+
+<h2> Imagem do projeto </h2>
 
 
 # Getting Started with Create React App
