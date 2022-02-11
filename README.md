@@ -11,7 +11,7 @@
 </ul>
 
 <h2> Imagem do projeto </h2>
-
+<img src="./weather.gif"style="height: 400px">
 
 # Getting Started with Create React App
 
