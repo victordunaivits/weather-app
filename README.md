@@ -21,6 +21,7 @@
 </ul>
 
 <h2>Clone este repositório</h2>
+
 ```bash
 $ git clone https://github.com/victordunaivits/weather-app.git
 ```
