@@ -1,4 +1,11 @@
 ## Weather App
+<h2>Tecnologias utilizadas</h2>
+<ul>
+    <li>HTML ✅</li>
+    <li>CSS ✅</li>
+    <li>ReactJS ✅</li>
+</ul>
+
 
 # Getting Started with Create React App
 
